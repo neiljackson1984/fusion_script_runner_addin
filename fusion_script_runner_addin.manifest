@@ -1,0 +1,13 @@
+{
+	"autodeskProduct":	"Fusion360",
+    "type":	"addin",
+	"id":	"e2bffabf-198b-447f-b402-c9a0eb468ba1",
+	"author":	"Neil Jackson",
+	"description":	{
+		"":	"Runs a Fusion script (or add-in) in response to an external request via RPyC (or http), with the choice of debugging.  Essentially, this add-in provides a way to do, from the command line, much of what can be done by manually clicking buttons in the Script Manager dialog in the Fusion UI.  Includes a Python script that can be run independently of Fusion to send the RPyC command to the add-in."
+	},
+	"version":	"",
+	"runOnStartup":	true,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
